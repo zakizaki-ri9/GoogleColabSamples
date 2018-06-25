@@ -1,0 +1,2 @@
+# GoogleColabSamples
+GoogleColabでの学習用リポジトリ
